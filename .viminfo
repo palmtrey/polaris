@@ -11,11 +11,12 @@
 ~Msle0~/\<while\>
 
 # Command Line History (newest to oldest):
-:wq
-:Wq
 :q!
-:qw!
+:!q
+:wq
 :w
+:Wq
+:qw!
 :W
 :noh
 :let @=""
@@ -109,18 +110,30 @@
 	o
 
 # File marks:
-'0  1  0  ~/ee262/hw2/p1/readme.txt
-'1  22  23  ~/ee262/hw1/p4/cfact.cpp
-'2  14  24  ~/ee262/hw1/p4/cfact.cpp
-'3  15  1  ~/ee262/hw1/p4/cfact.cpp
-'4  17  3  ~/ee262/hw1/p4/cfact.cpp
-'5  19  11  ~/ee262/hw1/p4/cfact.cpp
-'6  10  20  ~/ee262/hw1/p4/cfact.cpp
-'7  8  17  ~/ee262/hw1/p4/cfact.cpp
-'8  5  41  ~/ee262/hw1/p4/cfact.cpp
-'9  23  0  ~/ee262/hw1/p4/cfact.cpp
+'0  133  0  ~/cs141/notes/linkedlist.cpp
+'1  1  0  ~/cs141/notes/linkedList.cpp
+'2  120  0  ~/cs141/homework5/homework5.cpp
+'3  96  0  ~/cs141/lab8/lab8.cpp
+'4  1  0  ~/cs141/lab8/lab8
+'5  87  0  ~/cs141/lab9/lab9.cpp
+'6  7  0  ~/ee262/hw2/p1/pmul.cpp
+'7  1  0  ~/ee262/hw2/p1/readme.txt
+'8  22  23  ~/ee262/hw1/p4/cfact.cpp
+'9  14  24  ~/ee262/hw1/p4/cfact.cpp
 
 # Jumplist (newest first):
+-'  133  0  ~/cs141/notes/linkedlist.cpp
+-'  1  0  ~/cs141/notes/linkedlist.cpp
+-'  1  0  ~/cs141/notes/linkedList.cpp
+-'  120  0  ~/cs141/homework5/homework5.cpp
+-'  1  0  ~/cs141/homework5/homework5.cpp
+-'  96  0  ~/cs141/lab8/lab8.cpp
+-'  1  0  ~/cs141/lab8/lab8.cpp
+-'  1  0  ~/cs141/lab8/lab8
+-'  87  0  ~/cs141/lab9/lab9.cpp
+-'  1  0  ~/cs141/lab9/lab9.cpp
+-'  7  0  ~/ee262/hw2/p1/pmul.cpp
+-'  1  0  ~/ee262/hw2/p1/pmul.cpp
 -'  1  0  ~/ee262/hw2/p1/readme.txt
 -'  22  23  ~/ee262/hw1/p4/cfact.cpp
 -'  14  1  ~/ee262/hw1/p4/cfact.cpp
@@ -158,7 +171,6 @@
 -'  1  0  ~/cs141/homework5/testing.xml
 -'  163  0  ~/cs141/homework5/homework5.cpp
 -'  121  4  ~/cs141/homework5/homework5.cpp
--'  1  0  ~/cs141/homework5/homework5.cpp
 -'  251  0  ~/cs141/homework5/homework5.cpp
 -'  1  0  ~/cs141/lab10/lab10movies.cpp
 -'  123  1  ~/cs141/lab10/lab10movies.cpp
@@ -175,7 +187,6 @@
 -'  57  1  ~/cs141/lab9/lab9.cpp
 -'  103  0  ~/cs141/lab9/lab9.cpp
 -'  91  4  ~/cs141/lab9/lab9.cpp
--'  87  2  ~/cs141/lab9/lab9.cpp
 -'  78  0  ~/cs141/lab9/lab9.cpp
 -'  31  0  ~/cs141/lab9/lab9.cpp
 -'  11  0  ~/cs141/lab9/lab9.cpp
@@ -191,8 +202,6 @@
 -'  40  1  ~/cs141/lab9/lab9.cpp
 -'  4  0  ~/cs141/lab9/lab9.cpp
 -'  1  0  ~/cs141/lab9/vendingmachinedata.txt
--'  1  0  ~/cs141/lab9/lab9.cpp
--'  1  0  ~/cs141/lab8/lab8.cpp
 -'  20  3  ~/cs141/lab8/lab8.cpp
 -'  19  2  ~/cs141/lab8/lab8.cpp
 -'  43  0  ~/cs141/lab8/lab8.cpp
@@ -212,15 +221,47 @@
 -'  50  12  ~/cs141/lab7/employeeNames.txt
 -'  23  2  ~/cs141/lab7/lab7.cpp
 -'  1  0  ~/cs141/lab7/employeeNames.txt
--'  42  1  ~/cs141/lab7/lab7.cpp
--'  43  0  ~/cs141/lab7/lab7.cpp
--'  55  0  ~/cs141/lab7/lab7.cpp
--'  56  1  ~/cs141/lab7/lab7.cpp
--'  41  4  ~/cs141/lab7/lab7.cpp
--'  24  2  ~/cs141/lab7/lab7.cpp
--'  57  0  ~/cs141/lab7/lab7.cpp
 
 # History of marks within files (newest to oldest):
+
+> ~/cs141/notes/linkedlist.cpp
+	"	133	0
+
+> ~/cs141/notes/linkedList.cpp
+	"	1	0
+
+> ~/cs141/homework5/homework5.cpp
+	"	120	0
+
+> ~/cs141/lab8/lab8.cpp
+	"	96	0
+
+> ~/cs141/lab8/lab8
+	"	1	0
+
+> ~/cs141/lab9/lab9.cpp
+	"	87	0
+
+> ~/ee262/hw2/p1/pmul.cpp
+	"	7	0
+	^	7	0
+	.	7	0
+	+	10	11
+	+	21	0
+	+	20	0
+	+	18	0
+	+	20	0
+	+	15	0
+	+	8	0
+	+	6	88
+	+	15	1
+	+	17	0
+	+	16	9
+	+	12	13
+	+	13	17
+	+	16	21
+	+	18	0
+	+	7	0
 
 > ~/ee262/hw2/p1/readme.txt
 	"	1	0
@@ -331,35 +372,4 @@
 	"	1	0
 
 > ~/te.txt
-	"	1	0
-
-> ~/cs141/timecommit.py
-	"	4	40
-	^	4	41
-	.	4	40
-	+	4	40
-
-> ~/cs141/labfinal/movieManager.cpp
-	"	1	0
-
-> ~/cs141/homework5/testing.xml
-	"	1	0
-
-> ~/cs141/homework5/homework5.cpp
-	"	163	0
-	^	162	1
-	.	163	0
-	+	165	0
-	+	163	18
-	+	121	31
-	+	198	33
-	+	163	0
-
-> ~/cs141/lab10/lab10movies.cpp
-	"	1	0
-
-> ~/cs141/homework4/homework4.cpp
-	"	22	0
-
-> ~/cs141/pointers.cpp
 	"	1	0
