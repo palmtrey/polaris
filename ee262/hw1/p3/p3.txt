@@ -1,0 +1,8 @@
+Cameron Palmer campalme 0933565
+-rw-r--r-- 1 campalme users 33 Sep  3 09:33 tp3.txt
+tp3.txt: ASCII text, with CRLF, LF line terminators
+
+
+scp
+
+

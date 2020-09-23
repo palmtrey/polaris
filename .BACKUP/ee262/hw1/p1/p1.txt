@@ -1,0 +1,20 @@
+Windows Powershell
+
+1: campalme
+3: Sat Aug 29 19:53:37 EDT 2020
+4: /afs/ad.clarkson.edu/users/c/a/campalme/ee262/hw1/p1
+
+7:
+/usr/bin/g++
+g++ (1)              - GNU project C and C++ compiler
+g++: /usr/bin/g++ /usr/share/man/man1/g++.1.gz
+
+10: 3
+
+11:
+data
+
+line2
+
+12:
+line2
