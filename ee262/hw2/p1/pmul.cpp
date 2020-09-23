@@ -124,7 +124,7 @@ void printPolynomial(std::vector <int> vec){
 			std::cout << vec[i];
 		}
 	}
-	std::cout << "]";
+	std::cout << "]" << std::endl;
 	return;
 }
 
