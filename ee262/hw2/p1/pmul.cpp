@@ -1,5 +1,13 @@
-#include<iostream>
+// Title: pmul.cpp
+// Description & Purpose: This is a program to automate the multiplication of polynomials
+// Author: Cameron Palmer, campalme@clarkson.edu
+// Last Modified: September 23rd, 2020
 
+
+#pragma once
+
+#include <iostream>
+#include "linkedListForInts.h"
 
 
 // Function defs
