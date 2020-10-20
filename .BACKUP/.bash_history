@@ -1,134 +1,3 @@
-cd lab6
-cd ..
-cd lab7
-ls
-vim lab7.cpp
-wget tars.clarkson.edu/cs141/lab7/employeeNames.txt
-ls
-vim employeeNames.txt 
-ls
-cd cs141/
-ls
-cd lab7
-ls
-vim employeeNames.txt 
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-ls
-vim employeeNames.txt 
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-clear
-g++ lab7.cpp -o lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-clear
-vim lab7.cpp 
-g++ lab7.cpp -o lab7
-./lab7
-ls
-vim employeesData.txt 
-vim employeeNames.txt 
-vim lab7.cpp 
-vim employeeNames.txt 
-./lab7
-vim employees
-vim employeesData.txt 
-rm employeesData.txt 
-vim lab7.cpp
-g++ lab7.cpp -o lab7
-./lab7
-vim employeesData.txt 
-vim lab7.cpp
-g++ lab7.cpp -o lab7
-./lab7
-vim employeesData.txt 
-vim lab7.cpp
-g++ lab7.cpp -o lab7
-vim lab7.cpp
-g++ lab7.cpp -o lab7
-./lab7
-vim employeesData.txt 
-vim lab7.cpp
-g++ lab7.cpp -o lab7
-./lab7
-vim employeesData.txt 
-vim lab7.cpp
-vim employeesData.txt 
-cp lab7.cpp /afs/cu/class/cs141/s20/campalme
-cd /afs/cu/class/cs141/s20/campalme
-ls
-cd
-ls
-cd cs141/
-ls
-mkdir lab9
-cd lab9
-ls
-vim lab9.cpp
-wget tars.clarkson.edu/cs141/lab9/vendingmachinedata.txt
-ls
-nano vendingmachinedata.txt 
-vim vendingmachinedata.txt 
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-g++ lab9.cpp -o lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-vim lab9.cpp 
 g++ lab9.cpp -o lab9
 vim lab9.cpp 
 g++ lab9.cpp -o lab9
@@ -998,3 +867,134 @@ scp -r hw1 palm-linux@128.153.217.59:/
 scp -r hw1 palm-linux@128.153.217.59:~
 ssh palm-linux@128.153.217.59
 exit
+ls
+cd ee262/
+ls
+mkdir hw2
+ls
+cd hw2
+mkdir p1
+cd p1
+tree
+cd ..
+cd
+tree
+clear
+clear; clear
+ls
+cd ee262/
+tree
+cd hw2/p1
+ls
+vim readme.txt
+ls
+cd
+git init
+git add .
+git commit -m "Cam committed"
+git remote add master https://github.com/palmtrey/polaris
+git remote
+git push origin master
+git remote remove master
+git remote
+git remote add origin
+git remote add origin https://github.com/palmtrey/polaris
+git remote
+git push
+git push origin master
+git pull origin master
+ls
+python3 timecommit.py 
+clear
+ls
+cd ee262/
+ls
+cd hw2
+ls
+cd p1
+ls
+vim pmul.cpp
+cd ..
+cd 
+ls
+cd cs141/
+ls
+cd lab9
+ls
+vim lab9.cpp
+clear
+ls
+cd ..
+ls
+cd lab8
+vim lab8
+vim lab8.cpp
+ls
+cd ..
+ls
+cd homework5
+ls
+vim homework5.cpp
+ls
+cd ..
+ls
+cd notes
+ls
+vim linkedList.cpp
+vim linkedlist.cpp
+cd ..
+ls
+python3 timecommit.py 
+ls
+cd ee262/
+ls
+cd hw2
+ls
+cd p1
+ls
+cd pmul.cpp 
+vim pmul.cpp 
+cd 
+git pull origin master
+cd ee262/
+ls
+cd hw2
+ls
+cd p1
+ls
+vim pmul.cpp
+clear
+g++ pmul.cpp -o pmul
+./pmul
+ls
+cd ee262/
+ls
+cd hw2
+ls
+cd p1
+ls
+cd
+git pull origin master
+cd ee262/
+ls
+cd hw2
+ls
+cd p1
+ls
+g++ pmul.cpp -o pmul
+./pmul
+cd
+git pull origin master
+cd ee262/
+ls
+cd h2
+cd hw2
+cd p1/
+ls
+g++ pmul.cpp -o pmul
+./pmul
+ls
+cd ee262/
+ls
+mkdir notes
+cd notes
