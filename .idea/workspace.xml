@@ -10,11 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d06eb10-2471-48b4-a6d2-fb3255b6e2b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ee262/hw3/p2/driver1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ee262/hw3/p2/inp1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ee262/hw3/p1/palindrome.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/hw3/p1/palindrome.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ee262/hw3/p1/palindrome.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/hw3/p1/palindrome.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ee262/hw3/p2/rational.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/hw3/p2/rational.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +90,7 @@
       <workItem from="1600888417225" duration="31000" />
       <workItem from="1600888637303" duration="620000" />
       <workItem from="1603224615637" duration="59000" />
-      <workItem from="1603224727008" duration="10992000" />
+      <workItem from="1603224727008" duration="11126000" />
     </task>
     <servers />
   </component>
