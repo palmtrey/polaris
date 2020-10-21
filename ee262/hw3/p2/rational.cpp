@@ -156,7 +156,7 @@ rational rational::neg() {
 }
 
 void rational::denominatorIsZero() {
-    std::cerr << "Denominator can't be zero";
+    std::cerr << "Denominator can't be zero" << std::endl;
     exit(-1);
 }
 
