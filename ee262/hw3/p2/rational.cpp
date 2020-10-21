@@ -5,7 +5,7 @@
 
 #include <iostream>
 #include <fstream>
-
+#include <stdlib.h>
 
 class rational {
 
@@ -138,7 +138,7 @@ rational rational::neg() {
 
 void rational::denominatorIsZero() {
     std::cerr << "Denominator can't be zero";
-    std::exit(-1);
+    exit(-1);
 }
 
 

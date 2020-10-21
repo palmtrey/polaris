@@ -110,18 +110,19 @@
 	o
 
 # File marks:
-'0  9  0  ~/ee262/hw3/p2/rational.cpp
-'1  141  0  ~/ee262/hw3/p2/rational.cpp
-'2  7  0  ~/ee262/hw2/p1/pmul.cpp
-'3  133  0  ~/cs141/notes/linkedlist.cpp
-'4  1  0  ~/cs141/notes/linkedList.cpp
-'5  120  0  ~/cs141/homework5/homework5.cpp
-'6  96  0  ~/cs141/lab8/lab8.cpp
-'7  1  0  ~/cs141/lab8/lab8
-'8  87  0  ~/cs141/lab9/lab9.cpp
-'9  1  0  ~/ee262/hw2/p1/readme.txt
+'0  8  19  ~/ee262/hw3/p2/rational.cpp
+'1  9  0  ~/ee262/hw3/p2/rational.cpp
+'2  141  0  ~/ee262/hw3/p2/rational.cpp
+'3  7  0  ~/ee262/hw2/p1/pmul.cpp
+'4  133  0  ~/cs141/notes/linkedlist.cpp
+'5  1  0  ~/cs141/notes/linkedList.cpp
+'6  120  0  ~/cs141/homework5/homework5.cpp
+'7  96  0  ~/cs141/lab8/lab8.cpp
+'8  1  0  ~/cs141/lab8/lab8
+'9  87  0  ~/cs141/lab9/lab9.cpp
 
 # Jumplist (newest first):
+-'  8  19  ~/ee262/hw3/p2/rational.cpp
 -'  9  0  ~/ee262/hw3/p2/rational.cpp
 -'  141  4  ~/ee262/hw3/p2/rational.cpp
 -'  1  0  ~/ee262/hw3/p2/rational.cpp
@@ -219,14 +220,13 @@
 -'  26  1  ~/cs141/lab7/lab7.cpp
 -'  21  0  ~/cs141/lab7/lab7.cpp
 -'  1  0  ~/cs141/lab7/employeesData.txt
--'  51  0  ~/cs141/lab7/employeesData.txt
 
 # History of marks within files (newest to oldest):
 
 > ~/ee262/hw3/p2/rational.cpp
-	"	9	0
-	.	8	19
-	+	8	19
+	"	8	19
+	.	8	18
+	+	8	18
 
 > ~/ee262/hw2/p1/pmul.cpp
 	"	7	0

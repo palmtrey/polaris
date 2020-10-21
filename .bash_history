@@ -1,42 +1,3 @@
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-vim vendingmachinedata.txt 
-vim lab9.cpp 
-exit
-ls
-cd cs141/
-ls
-cd lab
-cd lab9
-ls
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
 ls
 ls -a
 rm .lab9.cpp.swp 
@@ -998,3 +959,42 @@ ls
 vim rational.cpp
 g++ rational.cpp -o rational
 vim rational.cpp
+ls
+cd ee262/
+ls
+cd ..
+ls
+cd campalme/
+ls
+clear
+ls
+git pull origin master
+ls
+cd ee262/
+s;
+ls
+cd ..
+git commit -m "Something"
+git add .
+git commit -m "Something"
+clear
+git pull origin master
+clear
+ls
+cd ee262/
+ls
+cd hw3
+ls
+cd p2
+ls
+vim rational.cpp 
+ls
+cd ee262/hw3/p2
+ls
+nano rational.cpp
+clear
+ls
+g++ rational.cpp -o rational
+nano rational.cpp
+g++ rational.cpp -o rational
+exit
