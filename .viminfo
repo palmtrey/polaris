@@ -11,9 +11,9 @@
 ~Msle0~/\<while\>
 
 # Command Line History (newest to oldest):
+:wq
 :q!
 :!q
-:wq
 :w
 :Wq
 :qw!
@@ -107,22 +107,23 @@
 				exit(0);	
 			}
 ""-	CHAR	0
-	o
+	>>>>>>> 9ba7f9d94157c73a3c604f74617773fa8a9780c2
 
 # File marks:
-'0  8  19  ~/ee262/hw3/p2/rational.cpp
-'1  9  0  ~/ee262/hw3/p2/rational.cpp
-'2  141  0  ~/ee262/hw3/p2/rational.cpp
-'3  7  0  ~/ee262/hw2/p1/pmul.cpp
-'4  133  0  ~/cs141/notes/linkedlist.cpp
-'5  1  0  ~/cs141/notes/linkedList.cpp
-'6  120  0  ~/cs141/homework5/homework5.cpp
-'7  96  0  ~/cs141/lab8/lab8.cpp
-'8  1  0  ~/cs141/lab8/lab8
-'9  87  0  ~/cs141/lab9/lab9.cpp
+'0  269  0  ~/ee262/hw3/p2/rational.cpp
+'1  8  19  ~/ee262/hw3/p2/rational.cpp
+'2  9  0  ~/ee262/hw3/p2/rational.cpp
+'3  141  0  ~/ee262/hw3/p2/rational.cpp
+'4  7  0  ~/ee262/hw2/p1/pmul.cpp
+'5  133  0  ~/cs141/notes/linkedlist.cpp
+'6  1  0  ~/cs141/notes/linkedList.cpp
+'7  120  0  ~/cs141/homework5/homework5.cpp
+'8  96  0  ~/cs141/lab8/lab8.cpp
+'9  1  0  ~/cs141/lab8/lab8
 
 # Jumplist (newest first):
--'  8  19  ~/ee262/hw3/p2/rational.cpp
+-'  269  0  ~/ee262/hw3/p2/rational.cpp
+-'  8  0  ~/ee262/hw3/p2/rational.cpp
 -'  9  0  ~/ee262/hw3/p2/rational.cpp
 -'  141  4  ~/ee262/hw3/p2/rational.cpp
 -'  1  0  ~/ee262/hw3/p2/rational.cpp
@@ -219,14 +220,16 @@
 -'  22  18  ~/cs141/lab7/lab7.cpp
 -'  26  1  ~/cs141/lab7/lab7.cpp
 -'  21  0  ~/cs141/lab7/lab7.cpp
--'  1  0  ~/cs141/lab7/employeesData.txt
 
 # History of marks within files (newest to oldest):
 
 > ~/ee262/hw3/p2/rational.cpp
-	"	8	19
-	.	8	18
+	"	269	0
+	.	269	0
 	+	8	18
+	+	184	0
+	+	185	0
+	+	269	0
 
 > ~/ee262/hw2/p1/pmul.cpp
 	"	7	0

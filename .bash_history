@@ -1,32 +1,3 @@
-ls
-ls -a
-rm .lab9.cpp.swp 
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-clear
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-ls
-exit
-cd cs141/
-ls
-cd lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
 vim lab9.cpp
 g++ lab9.cpp -o lab9
 ./lab9
@@ -998,3 +969,32 @@ g++ rational.cpp -o rational
 nano rational.cpp
 g++ rational.cpp -o rational
 exit
+ls
+clear
+ls
+cd ee262/
+cd 
+ls
+git pull origin master
+git add .
+git commit -m "Something"
+git pull origin master
+git pull origin master -f
+git pull origin master
+git commit - a
+git commit -a
+git pull origin master
+clear
+ls
+cd ee262/
+ls
+cd hw3
+ls
+cd p2
+ls
+g++ rational.cpp -o rational
+vim rational.cpp
+g++ rational.cpp -o rational
+./rational
+clear
+./rational

@@ -181,8 +181,8 @@ unsigned int rational::gcd (int n1 , int n2) {
     }
     return n1;
 }
-<<<<<<< HEAD
-=======
+
+
 
 int main(){
 
@@ -266,4 +266,4 @@ int main(){
 
 
 
->>>>>>> 9ba7f9d94157c73a3c604f74617773fa8a9780c2
+
