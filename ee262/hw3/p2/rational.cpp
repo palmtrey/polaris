@@ -101,8 +101,7 @@ void rational::output(std::ostream& y, std::string label){
         denominator = denominator/gcdNum;
     }
 
-
-
+    // Output values
     y << label << ": " << numerator << "/" << denominator << std::endl;
 }
 
@@ -185,6 +184,8 @@ unsigned int rational::gcd (int n1 , int n2) {
 
 
 int main(){
+
+    // Provided test code from driver1.cpp is included here in the main function
 
     using namespace std;
 
