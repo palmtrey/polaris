@@ -10,9 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d06eb10-2471-48b4-a6d2-fb3255b6e2b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ee262/hw3/p1/palindrome.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ee262/hw3/p2/driver1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ee262/hw3/p2/inp1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ee262/hw3/p1/palindrome.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/hw3/p1/palindrome.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ee262/hw3/p1/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/hw3/p1/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee262/hw3/p1/palindrome.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/hw3/p1/palindrome.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee262/hw3/p2/rational.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/hw3/p2/rational.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,39 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timecommit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="polaris" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/timecommit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.timecommit" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +94,7 @@
       <workItem from="1600888417225" duration="31000" />
       <workItem from="1600888637303" duration="620000" />
       <workItem from="1603224615637" duration="59000" />
-      <workItem from="1603224727008" duration="2946000" />
+      <workItem from="1603224727008" duration="10992000" />
     </task>
     <servers />
   </component>
@@ -93,9 +129,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="855" y="279" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1920.1040@0.0.1920.1040" timestamp="1600888948253" />
-    <state x="623" y="225" key="search.everywhere.popup" timestamp="1600888665916">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603301922776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600888665916" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603301922776" />
   </component>
 </project>
