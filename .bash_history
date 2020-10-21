@@ -1,62 +1,4 @@
 g++ lab9.cpp -o lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./labi
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-ls
-vim vendingmachinedata.txt 
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim vendingmachinedata.txt 
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp 
-g++ lab9.cpp -o lab9
 ./lab9
 vim lab9.cpp 
 g++ lab9.cpp -o lab9
@@ -998,3 +940,61 @@ cd ee262/
 ls
 mkdir notes
 cd notes
+ls
+cd ee262
+ls
+cd hw3
+mkdir hw3
+ls
+cd hw3
+d ..
+cd ..
+ls
+cd ..
+ls
+cd cd ee262/
+ls
+cd ee262/
+ls
+cd hw3
+ls
+mkdir p1
+mkdir p2
+ls
+cd p1
+touch readme.txt
+ls
+touch palindrome.cpp
+ls
+cd ..
+cd p2
+ls
+touch rational.cpp
+touch readme.txt
+cd
+l
+ls
+python3 timecommit.py 
+ls
+cd ee262/
+ls
+cd ..
+git pull
+git pull origin master
+ls
+cd ee262/
+ls
+cd hw3
+ls
+cd p2
+ls
+g++ rational.cpp -o rational
+cd ..
+git pull origin master
+cd ./ee262/hw3/p2
+ls
+g++ rational.cpp -o rational
+ls
+vim rational.cpp
+g++ rational.cpp -o rational
+vim rational.cpp

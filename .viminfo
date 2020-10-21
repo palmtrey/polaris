@@ -110,18 +110,21 @@
 	o
 
 # File marks:
-'0  7  0  ~/ee262/hw2/p1/pmul.cpp
-'1  133  0  ~/cs141/notes/linkedlist.cpp
-'2  1  0  ~/cs141/notes/linkedList.cpp
-'3  120  0  ~/cs141/homework5/homework5.cpp
-'4  96  0  ~/cs141/lab8/lab8.cpp
-'5  1  0  ~/cs141/lab8/lab8
-'6  87  0  ~/cs141/lab9/lab9.cpp
-'7  1  0  ~/ee262/hw2/p1/readme.txt
-'8  22  23  ~/ee262/hw1/p4/cfact.cpp
-'9  14  24  ~/ee262/hw1/p4/cfact.cpp
+'0  9  0  ~/ee262/hw3/p2/rational.cpp
+'1  141  0  ~/ee262/hw3/p2/rational.cpp
+'2  7  0  ~/ee262/hw2/p1/pmul.cpp
+'3  133  0  ~/cs141/notes/linkedlist.cpp
+'4  1  0  ~/cs141/notes/linkedList.cpp
+'5  120  0  ~/cs141/homework5/homework5.cpp
+'6  96  0  ~/cs141/lab8/lab8.cpp
+'7  1  0  ~/cs141/lab8/lab8
+'8  87  0  ~/cs141/lab9/lab9.cpp
+'9  1  0  ~/ee262/hw2/p1/readme.txt
 
 # Jumplist (newest first):
+-'  9  0  ~/ee262/hw3/p2/rational.cpp
+-'  141  4  ~/ee262/hw3/p2/rational.cpp
+-'  1  0  ~/ee262/hw3/p2/rational.cpp
 -'  7  0  ~/ee262/hw2/p1/pmul.cpp
 -'  133  0  ~/cs141/notes/linkedlist.cpp
 -'  1  0  ~/cs141/notes/linkedlist.cpp
@@ -217,10 +220,13 @@
 -'  21  0  ~/cs141/lab7/lab7.cpp
 -'  1  0  ~/cs141/lab7/employeesData.txt
 -'  51  0  ~/cs141/lab7/employeesData.txt
--'  1  0  ~/cs141/lab7/employees
--'  50  12  ~/cs141/lab7/employeeNames.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/ee262/hw3/p2/rational.cpp
+	"	9	0
+	.	8	19
+	+	8	19
 
 > ~/ee262/hw2/p1/pmul.cpp
 	"	7	0
@@ -367,7 +373,4 @@
 	+	1	72
 
 > ~/ee262/hw1/p1/[p1.txt
-	"	1	0
-
-> ~/te.txt
 	"	1	0
