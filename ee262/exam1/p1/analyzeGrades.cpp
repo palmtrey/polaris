@@ -4,7 +4,7 @@
 // Last Modified: November 5th, 2020
 
 #include<iostream>
-
+#include<stdlib.h>
 // Defining the type that will be used to store grades
 typedef double* varArray;
 
