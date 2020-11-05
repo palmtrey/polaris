@@ -1,0 +1,2 @@
+I did not work with anyone else on this (obviously, it's an exam), and I used the following source (just the Ch9 slideshow on Moodle):
+https://moodle.clarkson.edu/pluginfile.php/1032471/course/section/212813/ch09.pdf
