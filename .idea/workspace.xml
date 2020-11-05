@@ -10,8 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d06eb10-2471-48b4-a6d2-fb3255b6e2b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ee262/exam1/p1/analyzeGrades.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ee262/exam1/p1/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ee262/exam1/p2/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ee262/exam1/p3/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ee262/hw3/p2/rational.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/hw3/p2/rational.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +50,9 @@
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="timecommit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -90,7 +93,8 @@
       <workItem from="1600888417225" duration="31000" />
       <workItem from="1600888637303" duration="620000" />
       <workItem from="1603224615637" duration="59000" />
-      <workItem from="1603224727008" duration="13300000" />
+      <workItem from="1603224727008" duration="13511000" />
+      <workItem from="1604587466194" duration="1532000" />
     </task>
     <servers />
   </component>
