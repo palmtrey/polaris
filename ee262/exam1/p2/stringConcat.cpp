@@ -18,6 +18,8 @@ int main(){
 
     // Driver code has been copy-pasted here
 
+    cout<<my_strcat((char*)"test2", (char*)" greetings")<<endl;
+
     cout<<my_strcat("test1", " hello.")<<endl;
     cout<<my_strcat("now", " this.")<<endl<<endl;
 
@@ -43,28 +45,21 @@ int main(){
     return 0;
 }
 
+
 char* my_strcat(const char* s1, const char* s2){
 
     char* string1 = (char*)s1;
     char* string2 = (char*)s2;
 
-    std::cout << string1 << std::endl;
+    int len1 = strlen(string1);
+    int len2 = strlen(string2);
 
-    int lens1 = strlen(string1);
-    int lens2 = strlen(s2);
-
-    //std::cout << string2[0];
-
-    *string1 += *string2;
-
-    /*
-    for (int i = 0; i < lens2; i++){
-        string1[lens1 + i + 1] = string2[i];
-        std::cout << string2 << std::endl;
+    for(int i = 0; i < len2; i++){
+        string1[len1] = string2[i];
+        len1 = len1 + 1;
     }
 
-     */
-
+    string1[len1] = '\0';
 
     return string1;
 
