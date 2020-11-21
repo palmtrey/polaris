@@ -5,40 +5,51 @@
 
 #include "triple.h"
 
-using namespace simSequence;
-
+// First constructor w/o name
 template <typename T>
-Triple<T>::Triple(T first, T second, T third) {
+simSequence::Triple<T>::Triple(T first, T second, T third) {
     Triple<T>::first = first;
     Triple<T>::second = second;
     Triple<T>::third = third;
     Triple<T>::name = "unnamed";
 }
 
+// Second constructor w/ name
 template <typename T>
-Triple<T>::Triple(T first, T second, T third, string name) {
+simSequence::Triple<T>::Triple(T first, T second, T third, string name) {
     Triple<T>::first = first;
     Triple<T>::second = second;
     Triple<T>::third = third;
     Triple<T>::name = name;
 }
 
+// Get the first element of the triple
 template <typename T>
-T Triple<T>::getFirst() {
+T simSequence::Triple<T>::getFirst() {
     return first;
 }
 
+// Get the second element of the triple
 template <typename T>
-T Triple<T>::getSecond() {
+T simSequence::Triple<T>::getSecond() {
     return second;
 }
 
+// Get the third element of the triple
 template <typename T>
-T Triple<T>::getThird() {
+T simSequence::Triple<T>::getThird() {
     return third;
 }
 
+// Print out the triple
 template <typename T>
-void Triple<T>::print() {
+void simSequence::Triple<T>::print() {
     std::cout << name << ": (" << first << ", " << second << ", " << third << ")" << std::endl;
 }
+
+// Explicit Instantiations
+template class simSequence::Triple<long>;
+template class simSequence::Triple<char>;
+template class simSequence::Triple<double>;
+template class simSequence::Triple<std::string>;
+template class simSequence::Triple<int>;
