@@ -3,9 +3,6 @@ g++ lab9.cpp -o lab9
 ./lab9
 vim lab9.cpp
 g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
 vim lab9.cpp
 g++ lab9.cpp -o lab9
 vim lab9.cpp
@@ -998,3 +995,6 @@ ls
 vim stringConcat.cpp
 g++ stringConcat.cpp
 ./a.out 
+clear
+ls
+python3 timecommit.py
