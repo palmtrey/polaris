@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
   </component>
@@ -10,16 +28,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d06eb10-2471-48b4-a6d2-fb3255b6e2b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ee262/exam1/p3/coords.h.gch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ee262/exam1/p3/coords.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ee262/exam1/p3/use1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ee262/hw4/client1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ee262/hw4/p1/triple.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ee262/exam1/p2/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/exam1/p2/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ee262/exam1/p2/stringConcat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/exam1/p2/stringConcat.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ee262/exam1/p2/stringConcat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/exam1/p2/stringConcat.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ee262/exam1/p3/coords.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/exam1/p3/coords.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ee262/exam1/p3/coords.h" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/exam1/p3/coords.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ee262/exam1/p3/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/exam1/p3/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,9 +67,9 @@
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="timecommit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -100,11 +112,23 @@
       <workItem from="1603224615637" duration="59000" />
       <workItem from="1603224727008" duration="13511000" />
       <workItem from="1604587466194" duration="26217000" />
+      <workItem from="1605998568334" duration="234000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
