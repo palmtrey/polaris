@@ -28,8 +28,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d06eb10-2471-48b4-a6d2-fb3255b6e2b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ee262/hw4/p1/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ee262/hw4/p1/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ee262/hw4/p1/triple.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/hw4/p1/triple.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee262/hw4/p1/triple.o" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/hw4/p1/triple.o" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +119,7 @@
       <workItem from="1603224615637" duration="59000" />
       <workItem from="1603224727008" duration="13511000" />
       <workItem from="1604587466194" duration="26217000" />
-      <workItem from="1605998568334" duration="1741000" />
+      <workItem from="1605998568334" duration="3103000" />
     </task>
     <servers />
   </component>
@@ -162,9 +165,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="855" y="279" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1920.1040@0.0.1920.1040" timestamp="1600888948253" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604596903728">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="467" y="213" width="670" height="572" key="search.everywhere.popup" timestamp="1606002397123">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604596903728" />
+    <state x="467" y="213" width="670" height="572" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1606002397123" />
   </component>
 </project>
