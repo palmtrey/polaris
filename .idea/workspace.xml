@@ -28,9 +28,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d06eb10-2471-48b4-a6d2-fb3255b6e2b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ee262/hw4/client1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ee262/hw4/p1/triple.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee262/hw4/p1/triple.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ee262/hw4/p1/triple.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ee262/hw4/p1" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
@@ -112,7 +116,7 @@
       <workItem from="1603224615637" duration="59000" />
       <workItem from="1603224727008" duration="13511000" />
       <workItem from="1604587466194" duration="26217000" />
-      <workItem from="1605998568334" duration="234000" />
+      <workItem from="1605998568334" duration="1741000" />
     </task>
     <servers />
   </component>
