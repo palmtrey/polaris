@@ -1,0 +1,38 @@
+--- Test 1 --- 
+rdef: [0, 0]
+
+--- Test 2 --- 
+r1: [40, 22]
+r1p: (45.6508, 0.502843)
+
+--- Test 3 --- 
+p2last: (45.6508, 0.502843)
+p2last_r[40, 22]
+
+--- Test 4 --- 
+rect_coords: need xco >=0 and yco >=0 [will use Cartesian origin].
+wr1: [0, 0]
+
+--- Test 5 --- 
+pdef: (0, 0.523599)
+pdefr: [0, 0]
+
+--- Test 6 --- 
+polar_coords(): need r>=0 and 0<=theta<=PI/2 [will use polar origin].
+p1: (0, 0.523599)
+p2: (0, 0.523599)
+
+--- Test 7 --- 
+p3: (25, 1.0472)
+{{p1 = p3}}
+p1: (25, 1.0472)
+p1_r: [12.5, 21.6506]
+
+--- Test 8 --- 
+p4: (0, 0.523599)
+Polar coordinates of p4: (0, 0.523599 rad)
+p4r: [0, 0]
+
+--- Test 9 --- 
+r5: [0, 0]
+r5p (0, 0.523599)

@@ -6,149 +6,6 @@ g++ lab9.cpp -o lab9
 ./lab9
 vim lab9.cpp
 g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./alb9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-./lab9
-ls
-cd cs141/
-ls
-cd lab9
-ls
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab98
-./lab9
-vim lab9.cpp
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-ls
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-cd ..
-ls
-vim homework3.cpp
-vim homework2.cpp
-cd lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-cp lab9.cpp afs/cu/class/cs141/s20/campalme
-cp lab9.cpp /afs/cu/class/cs141/s20/campalme
-esit
-exit
-ls
-cd cs141/
-ls
-cd lab9
-ls
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
-./lab9
-vim lab9.cpp
-g++ lab9.cpp -o lab9
 vim lab9.cpp
 g++ lab9.cpp -o lab9
 vim lab9.cpp
@@ -998,3 +855,146 @@ g++ rational.cpp -o rational
 ./rational
 clear
 ./rational
+ks
+ls
+git pull origin master
+git add .
+git add . -a
+git add -a
+git add -all
+git add --all
+clear
+git commit -m "Something"
+clear
+git pull origin master
+clear
+ls
+cd ee262/
+ls
+cd hw3
+ls
+cd p2
+ls
+vim rational.cpp
+g++ rational.cpp -o rational
+./rational
+clear
+ls
+vim rational.cpp
+g++ rational.cpp -o rational
+./rational
+cd
+ls
+python3 timecommit.py 
+clear
+ls
+clear
+ls
+cd ee262/
+ls
+cd notes
+ls
+vim 9-2.cpp
+g++ 9-2.cpp -o 9-2
+ls
+./9-2 
+vim 9-2.cpp
+g++ 9-2.cpp -o 9-2
+./9-2 
+vim 9-2.cpp
+g++ 9-2.cpp -o 9-2
+./9-2 
+vim 9-2.cpp
+g++ 9-2.cpp -o 9-2
+vim 9-2.cpp
+g++ 9-2.cpp -o 9-2
+vim 9-2.cpp
+g++ 9-2.cpp -o 9-2
+vim 9-2.cpp
+g++ 9-2.cpp -o 9-2
+vim 9-2.cpp
+g++ 9-2.cpp -o 9-2
+vim 9-2.cpp
+g++ 9-2.cpp -o 9-2
+./9-2 
+vim 9-2.cpp
+clear
+g++ 9-2.cpp -o 9-2
+./9-2 
+vim 9-2.cpp
+g++ 9-2.cpp -o 9-2
+./9-2 
+vim 9-2.cpp
+clear
+g++ 9-2.cpp -o 9-2
+./9-2 
+clear
+ls
+cd ee262/
+ls
+cd ..
+git pull origin master
+clear
+ls
+cd ee262/
+ls
+cd exam1/
+ls
+cd p1
+ls
+g++ analyzeGrades.cpp -o analyzeGrades
+cd ..
+ls
+cd hw3
+ls
+cd p1
+ls
+vim palindrome.cpp
+cd ..
+cd p2
+ls
+vim rational.cpp
+cd
+ls
+python3 timecommit.py 
+clear
+git pull origin master
+clear
+cd ee262/
+ls
+cd exam1/
+ls
+cd p1
+ls
+g++ analyzeGrades.cpp -o analyzeGrades
+./analyzeGrades 
+clear
+ls
+git pull origin master
+clear
+ls
+cd ee262/
+ls
+cd exam1/
+ls
+cd p3
+ls
+g++ -c coords.cpp; g++ -c use1.cpp; g++ coords.o use1.o
+clear
+ls
+cd ee262/
+ls
+cd ..
+ls
+git pull origin master
+clear
+ls
+cd ee262/
+ls
+cd exam1/
+ls
+cd p2
+ls
+vim stringConcat.cpp
+g++ stringConcat.cpp
+./a.out 

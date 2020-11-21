@@ -11,8 +11,8 @@
 ~Msle0~/\<while\>
 
 # Command Line History (newest to oldest):
-:wq
 :q!
+:wq
 :!q
 :w
 :Wq
@@ -107,28 +107,35 @@
 				exit(0);	
 			}
 ""-	CHAR	0
-	>>>>>>> 9ba7f9d94157c73a3c604f74617773fa8a9780c2
+	std::cout <<  << std::endl;
 
 # File marks:
-'0  159  57  ~/ee262/hw3/p2/rational.cpp
-'1  152  0  ~/ee262/hw3/p2/rational.cpp
-'2  269  0  ~/ee262/hw3/p2/rational.cpp
-'3  8  19  ~/ee262/hw3/p2/rational.cpp
-'4  9  0  ~/ee262/hw3/p2/rational.cpp
-'5  141  0  ~/ee262/hw3/p2/rational.cpp
-'6  7  0  ~/ee262/hw2/p1/pmul.cpp
-'7  133  0  ~/cs141/notes/linkedlist.cpp
-'8  1  0  ~/cs141/notes/linkedList.cpp
-'9  120  0  ~/cs141/homework5/homework5.cpp
+'0  1  0  ~/ee262/exam1/p2/stringConcat.cpp
+'1  1  5  ~/ee262/hw3/p2/rational.cpp
+'2  1  0  ~/ee262/hw3/p1/palindrome.cpp
+'3  19  20  ~/ee262/notes/9-2.cpp
+'4  17  9  ~/ee262/notes/9-2.cpp
+'5  23  1  ~/ee262/notes/9-2.cpp
+'6  13  31  ~/ee262/notes/9-2.cpp
+'7  159  57  ~/ee262/hw3/p2/rational.cpp
+'8  152  0  ~/ee262/hw3/p2/rational.cpp
+'9  269  0  ~/ee262/hw3/p2/rational.cpp
 
 # Jumplist (newest first):
--'  159  57  ~/ee262/hw3/p2/rational.cpp
+-'  1  0  ~/ee262/exam1/p2/stringConcat.cpp
+-'  1  5  ~/ee262/hw3/p2/rational.cpp
+-'  159  4  ~/ee262/hw3/p2/rational.cpp
+-'  1  0  ~/ee262/hw3/p1/palindrome.cpp
+-'  19  20  ~/ee262/notes/9-2.cpp
+-'  17  1  ~/ee262/notes/9-2.cpp
+-'  23  1  ~/ee262/notes/9-2.cpp
+-'  13  1  ~/ee262/notes/9-2.cpp
+-'  1  0  ~/ee262/notes/9-2.cpp
 -'  152  0  ~/ee262/hw3/p2/rational.cpp
 -'  269  0  ~/ee262/hw3/p2/rational.cpp
 -'  8  0  ~/ee262/hw3/p2/rational.cpp
 -'  9  0  ~/ee262/hw3/p2/rational.cpp
 -'  141  4  ~/ee262/hw3/p2/rational.cpp
--'  1  0  ~/ee262/hw3/p2/rational.cpp
 -'  7  0  ~/ee262/hw2/p1/pmul.cpp
 -'  133  0  ~/cs141/notes/linkedlist.cpp
 -'  1  0  ~/cs141/notes/linkedlist.cpp
@@ -213,18 +220,14 @@
 -'  19  2  ~/cs141/lab8/lab8.cpp
 -'  43  0  ~/cs141/lab8/lab8.cpp
 -'  89  1  ~/cs141/lab8/lab8.cpp
--'  41  2  ~/cs141/lab8/lab8.cpp
--'  47  44  ~/cs141/lab8/lab8.cpp
--'  10  1  ~/cs141/lab8/lab8.cpp
--'  29  3  ~/cs141/lab8/lab8.cpp
--'  50  0  ~/cs141/lab7/employeesData.txt
--'  1  0  ~/cs141/lab7/lab7.cpp
--'  22  18  ~/cs141/lab7/lab7.cpp
 
 # History of marks within files (newest to oldest):
 
+> ~/ee262/exam1/p2/stringConcat.cpp
+	"	1	0
+
 > ~/ee262/hw3/p2/rational.cpp
-	"	159	57
+	"	1	5
 	^	159	58
 	.	159	57
 	+	8	18
@@ -232,6 +235,28 @@
 	+	185	0
 	+	269	0
 	+	159	57
+
+> ~/ee262/hw3/p1/palindrome.cpp
+	"	1	0
+
+> ~/ee262/notes/9-2.cpp
+	"	19	20
+	^	19	21
+	.	19	20
+	+	4	11
+	+	25	9
+	+	14	0
+	+	13	29
+	+	8	16
+	+	11	19
+	+	10	57
+	+	13	31
+	+	23	12
+	+	21	1
+	+	19	19
+	+	18	0
+	+	17	9
+	+	19	20
 
 > ~/ee262/hw2/p1/pmul.cpp
 	"	7	0
@@ -363,19 +388,4 @@
 	+	19	2
 
 > ~/ee262/hw1/p1/tmp3.txt
-	"	1	0
-
-> ~/ee262/hw1/p1/readme.txt
-	"	1	73
-	^	1	74
-	.	1	73
-	+	1	73
-
-> ~/ee262/hw1/readme.txt
-	"	1	72
-	^	1	73
-	.	1	72
-	+	1	72
-
-> ~/ee262/hw1/p1/[p1.txt
 	"	1	0
